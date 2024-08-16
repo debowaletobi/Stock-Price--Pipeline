@@ -1,0 +1,1 @@
+Python Airflow ETL pipeline to fetch Apple's stock prices from Yahoo Finance.
